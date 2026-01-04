@@ -1,4 +1,4 @@
-﻿# Real-time Tic-Tac-Toe Game - LILA Ffullstack assignment
+﻿# Real-time Tic-Tac-Toe Game
 
 A modern, real-time multiplayer Tic-Tac-Toe game built with the MERN stack (MongoDB, Express.js, React, Node.js) featuring Socket.IO for real-time gameplay, comprehensive statistics tracking, and a beautiful responsive UI.
 
@@ -214,5 +214,6 @@ multitac-mern/
 ---
 
 **Happy Gaming! 🎮**
+
 
 
